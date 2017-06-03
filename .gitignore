@@ -1,0 +1,112 @@
+#EXTM3U
+
+
+#EXTINF:0 tvg-logo="http://aws-noticias-pt.s3.amazonaws.com/2013/06/LOGO-NOVO-TEMPO.jpg" group-title="Canais Aberto",Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w1486978661_b512000_slpor.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://www.sbt.com.br/static/media/playlist/20100209115700/20100209115717/20140718155539.JPG" group-title="Canais Aberto",SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://blog.wedologos.com.br/wp-content/uploads/2012/02/logo-rede-record-1316892247.jpg" group-title="Canais Aberto",Rede Record
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-b.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1200px-TV_Di%C3%A1rio_logo.svg.png" group-title="Canais Aberto",TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Logotipo_TV_Correio.jpg" group-title="Canais Aberto",TV CORREIO -PB
+http://flash1.crossdigital.com.br/491/491/chunklist_w80893840.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://www.diariodosertao.com.br/img/logo_diario.png" group-title="Canais Aberto",TV DIARIO DO SERTAO
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1284985473.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-ksnSwiKpDyk/AAAAAAAAAAI/AAAAAAAAAAA/p-zalEtriUk/s900-c-k-no/photo.jpg" group-title="Canais Aberto",TV TAMBAU
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/chunklist_w961984886.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/552096405116841984/NF__OMqu.png" group-title="Canais Aberto",TV PORTAL MINDIA 
+http://video02.kshost.com.br/tvportalmidia/tvportalmidia/chunklist_w531491947.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-TOSCVju65ww/VMOSS9j3_XI/AAAAAAAAAY8/mXuXnuHwyiw/s1600/fvc.png" group-title="Canais Aberto",TV Alsol
+http://paineltv.alsol.com.br:1935/tvalsol/myStream/chunklist_w1624899524.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://www.clippb.com/wp-content/uploads/2016/01/tvarapuan-526x330.png" group-title="Canais Aberto",TV ARAPUAN
+http://mediacp.ciclanohost.com.br:1935/8064/8064/chunklist_w238294142.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-hYu0cb7zKUU/AAAAAAAAAAI/AAAAAAAAAAA/XuHQHc42TDI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Canais Aberto",TV Somzoom
+http://srv3.zoeweb.tv/z443-live/stream1/chunklist_w1513763916.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/qmUxtjoZY7E/hqdefault.jpg" group-title="Canais Aberto",TV PADRE CICERO
+http://104.156.60.74:1935/tvpadrecicero/tvpadrecicero/chunklist_w718891672.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="http://www.visaonoticias.com/images/noticias/0310775001443644210.jpg" group-title="Canais Aberto",tv sol
+http://172.93.110.130:1935/tvsol/tvsol/chunklist_w1968133423.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="http://img.radios.com.br/radio/lg/radio13128_1439401449.jpg" group-title="radio",Radio Evangelizar
+http://evanam.crossradio.com.br:8002/stream/1;
+
+
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-yMfGie3BaA4/UTlcjCwuOqI/AAAAAAAADdw/WMIDz1saT2o/s320/R%C3%A1dio+GUARABIRA+FM.png" group-title="Radio",Guarabira fm
+http://ice11.crossradio.com.br:8034/stream/1/
+
+
+
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-OQPp-T_8aAk/TyScREPW8rI/AAAAAAAAEKw/kSM3rMJ_71s/s1600/RADIO_CORREIO_FM_JOAO_PESSOA.png" group-title="Radio",Radio 98 Correio sat
+http://ice11.crossradio.com.br:8014/;*.mp3
+
+
+
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1395911767/frente_talisma_2011.jpg" group-title="Radio",Talisma FM Belém-PB
+http://euroticast4.euroti.com.br:8330/;stream/1
+
+
+
+
+#EXTINF:0 tvg-logo="http://www.radioagrestefm.com.br/pics/banner-107-aovivo.jpg" group-title="Radio",Radio Agresti FM Nova cruz
+http://borpas.info/iptvplayer-get.ver
+
+
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="Canais Aberto",SBT
+
+
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="Canais Aberto",SBT
+
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="Canais Aberto",SBT
+
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="Canais Aberto",SBT
